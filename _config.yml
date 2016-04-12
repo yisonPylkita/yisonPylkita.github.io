@@ -1,0 +1,28 @@
+# Dependencies
+#markdown:         redcarpet
+markdown:         kramdown
+#highlighter:      pygments
+highlighter:      rouge
+
+# Required gems
+gems:
+  - jekyll-gist
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Blog
+tagline:          'Programming related blog'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              https://yisonPylkita.github.io
+baseurl:          /
+
+author:
+  name:           'Wojciech Bartnik'
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/yisonPylkita/yisonPylkita.github.io
